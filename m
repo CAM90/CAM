@@ -1,2 +1,5 @@
-sj
-d
+samasm
+s
+as
+asaa
+
