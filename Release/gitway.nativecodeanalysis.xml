@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\New folder\2020\</FILEPATH>
+      <FILENAME>gitway.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'gitway::Discountl' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>gitway::{ctor}</FUNCTION>
+    <DECORATED>??0gitway@@QAE@XZ</DECORATED>
+    <FUNCLINE>63</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>gitway::Discountl</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\New folder\2020\</FILEPATH>
+      <FILENAME>gitway.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'gitway::prncic' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>gitway::{ctor}</FUNCTION>
+    <DECORATED>??0gitway@@QAE@XZ</DECORATED>
+    <FUNCLINE>63</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>gitway::prncic</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\New folder\2020\</FILEPATH>
+      <FILENAME>gitway.cpp</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'gitway::data' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>gitway::{ctor}</FUNCTION>
+    <DECORATED>??0gitway@@QAE@XZ</DECORATED>
+    <FUNCLINE>63</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>gitway::data</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

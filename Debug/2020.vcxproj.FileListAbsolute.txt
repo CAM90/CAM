@@ -1,0 +1,2 @@
+D:\New folder\2020\Debug\2020.exe
+D:\New folder\2020\Debug\2020.pdb
